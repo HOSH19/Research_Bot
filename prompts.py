@@ -1,4 +1,4 @@
-BODY_CHAR_LIMIT = 3000
+BODY_CHAR_LIMIT = 6000
 
 NO_DIGEST_MESSAGE = "📭 No AI digest today — newsletters don't publish on weekends."
 
