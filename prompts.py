@@ -49,7 +49,7 @@ Message format (use HTML):
 <b>2. ...</b>
 ...
 
-<i>Curated from [N] newsletters</i>
+<i>Curated from [N] unique newsletter sources</i>
 
 Rules:
 - Every story MUST include a working article link — do not include a story if you cannot find its URL.
